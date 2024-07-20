@@ -28,7 +28,9 @@ Fourth course in this specialization is [Sequences, Time Series and Prediction](
 - Build a sunspot prediction model using real-world data
 
 ## Certificates
-- [Introduction to TensorFlow for Artificial Intelligence Machine Learning, and Deep Learning](https://coursera.org/share/58d43fe750c66461a40e1eb031472f79)
-- [Convolutional Neural  Networks in TensorFlow](https://coursera.org/share/6211b214dfcdf6350c564b58a82531d3)
-- [Natural Language Processing in TensorFlow](https://coursera.org/share/111dbd328b3bf077ee155f73adc2e8a8)
-- [Sequences, Time Series and Prediction](https://coursera.org/share/71505245577334ec8f5d4fb288895780)
+Proof of completion of the DeepLearning.AI Tensorflow Developer Specialization with links to the following certificates.
+- [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/5d069fee735e1dabd5309b72a2c1d082)
+    - [Introduction to TensorFlow for Artificial Intelligence Machine Learning, and Deep Learning](https://coursera.org/share/58d43fe750c66461a40e1eb031472f79)
+    - [Convolutional Neural  Networks in TensorFlow](https://coursera.org/share/6211b214dfcdf6350c564b58a82531d3)
+    - [Natural Language Processing in TensorFlow](https://coursera.org/share/111dbd328b3bf077ee155f73adc2e8a8)
+    - [Sequences, Time Series and Prediction](https://coursera.org/share/71505245577334ec8f5d4fb288895780)
